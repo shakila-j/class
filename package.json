@@ -1,0 +1,33 @@
+{
+  "name": "group",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000l\u0000a\u0000s\u0000s\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jshint": "^2.9.7",
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "semistandard && mocha",
+    "dev": "webpack",
+    "watch": "npm run dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakila-j/class.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shakila-j/class/issues"
+  },
+  "homepage": "https://github.com/shakila-j/class#readme"
+}
